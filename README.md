@@ -1,6 +1,3 @@
-Sure! Here's a sample `README.md` for a Java 2D top-down Tron game using Java's Swing library:
-
-```markdown
 # Tron Game in Java
 
 A simple 2D top-down Tron-style game implemented in Java using the Swing library. This game features three players that navigate a grid, leaving trails behind them. The objective is to trap the opponent while avoiding crashing into trails.
